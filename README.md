@@ -4,7 +4,7 @@
 
 **Mobile Application Developer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-6c63ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://landing-page-seven-theta-12.vercel.app ))
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Site-6c63ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://landing-page-seven-theta-12.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pablofu9-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablofu9)
 [![Medium](https://img.shields.io/badge/Medium-@pfuertesios-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pfuertesios)
 [![Email](https://img.shields.io/badge/Email-pfuertesios@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pfuertesios@gmail.com)
@@ -55,7 +55,7 @@ Mobile developer passionate about software architectures and building high-quali
 
 <div align="center">
 
-[**View my full portfolio →**](https://landing-page-seven-theta-12.vercel.app))
+[**View my full portfolio →**](https://landing-page-seven-theta-12.vercel.app)
 
 </div>
 
